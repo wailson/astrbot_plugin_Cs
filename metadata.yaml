@@ -1,4 +1,4 @@
-name: helloworld # 这是你的插件的唯一识别名。
+name: HelloWorld # 这是你的插件的唯一识别名。
 desc: 这是 AstrBot 的默认插件，支持关键词回复。 # 插件简短描述
 version: c1.0 # 插件版本号。格式：v1.1.1 或者 v1.1
 author: Wilson # 作者
